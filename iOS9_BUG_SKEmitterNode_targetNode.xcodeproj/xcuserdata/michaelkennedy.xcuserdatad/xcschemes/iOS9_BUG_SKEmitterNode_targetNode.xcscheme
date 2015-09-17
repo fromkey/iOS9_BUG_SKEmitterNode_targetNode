@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0700"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8F29372B1BAAC0440042D96E"
+               BuildableName = "iOS9_BUG_SKEmitterNode_targetNode.app"
+               BlueprintName = "iOS9_BUG_SKEmitterNode_targetNode"
+               ReferencedContainer = "container:iOS9_BUG_SKEmitterNode_targetNode.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8F2937431BAAC0450042D96E"
+               BuildableName = "iOS9_BUG_SKEmitterNode_targetNodeTests.xctest"
+               BlueprintName = "iOS9_BUG_SKEmitterNode_targetNodeTests"
+               ReferencedContainer = "container:iOS9_BUG_SKEmitterNode_targetNode.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8F29374E1BAAC0450042D96E"
+               BuildableName = "iOS9_BUG_SKEmitterNode_targetNodeUITests.xctest"
+               BlueprintName = "iOS9_BUG_SKEmitterNode_targetNodeUITests"
+               ReferencedContainer = "container:iOS9_BUG_SKEmitterNode_targetNode.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F29372B1BAAC0440042D96E"
+            BuildableName = "iOS9_BUG_SKEmitterNode_targetNode.app"
+            BlueprintName = "iOS9_BUG_SKEmitterNode_targetNode"
+            ReferencedContainer = "container:iOS9_BUG_SKEmitterNode_targetNode.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F29372B1BAAC0440042D96E"
+            BuildableName = "iOS9_BUG_SKEmitterNode_targetNode.app"
+            BlueprintName = "iOS9_BUG_SKEmitterNode_targetNode"
+            ReferencedContainer = "container:iOS9_BUG_SKEmitterNode_targetNode.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F29372B1BAAC0440042D96E"
+            BuildableName = "iOS9_BUG_SKEmitterNode_targetNode.app"
+            BlueprintName = "iOS9_BUG_SKEmitterNode_targetNode"
+            ReferencedContainer = "container:iOS9_BUG_SKEmitterNode_targetNode.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
